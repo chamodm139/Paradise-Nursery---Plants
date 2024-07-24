@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/css/main.4de501cb.chunk.css",
-    "main.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/main.bc729ae4.chunk.js",
-    "main.js.map": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/main.bc729ae4.chunk.js.map",
-    "runtime~main.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/runtime~main.97e2dd00.js",
-    "runtime~main.js.map": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/runtime~main.97e2dd00.js.map",
-    "static/js/2.ad2a1308.chunk.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/2.ad2a1308.chunk.js",
-    "static/js/2.ad2a1308.chunk.js.map": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/2.ad2a1308.chunk.js.map",
-    "index.html": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/index.html",
-    "precache-manifest.a7ef61def043a277dff2e2be9f0f093c.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/precache-manifest.a7ef61def043a277dff2e2be9f0f093c.js",
-    "service-worker.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/service-worker.js",
-    "static/css/main.4de501cb.chunk.css.map": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/css/main.4de501cb.chunk.css.map",
-    "static/media/landing-bg.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/landing-bg.4d9eb41e.jpg",
-    "static/media/lavender.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/lavender.a053b3a1.jpg",
-    "static/media/peace-lily.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/peace-lily.4c1f7d34.jpg",
-    "static/media/rose.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/rose.9f9180e4.jpg",
-    "static/media/rosemary.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/rosemary.b146ed31.jpg",
-    "static/media/spider-plant.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/spider-plant.0609463f.jpg"
+    "main.css": "/Paradise-Nursery---Plants/static/css/main.4de501cb.chunk.css",
+    "main.js": "/Paradise-Nursery---Plants/static/js/main.bc729ae4.chunk.js",
+    "main.js.map": "/Paradise-Nursery---Plants/static/js/main.bc729ae4.chunk.js.map",
+    "runtime~main.js": "/Paradise-Nursery---Plants/static/js/runtime~main.598a458d.js",
+    "runtime~main.js.map": "/Paradise-Nursery---Plants/static/js/runtime~main.598a458d.js.map",
+    "static/js/2.ad2a1308.chunk.js": "/Paradise-Nursery---Plants/static/js/2.ad2a1308.chunk.js",
+    "static/js/2.ad2a1308.chunk.js.map": "/Paradise-Nursery---Plants/static/js/2.ad2a1308.chunk.js.map",
+    "index.html": "/Paradise-Nursery---Plants/index.html",
+    "precache-manifest.ccdeaad59ad113225ea4874913bc9cc9.js": "/Paradise-Nursery---Plants/precache-manifest.ccdeaad59ad113225ea4874913bc9cc9.js",
+    "service-worker.js": "/Paradise-Nursery---Plants/service-worker.js",
+    "static/css/main.4de501cb.chunk.css.map": "/Paradise-Nursery---Plants/static/css/main.4de501cb.chunk.css.map",
+    "static/media/landing-bg.jpg": "/Paradise-Nursery---Plants/static/media/landing-bg.4d9eb41e.jpg",
+    "static/media/lavender.jpg": "/Paradise-Nursery---Plants/static/media/lavender.a053b3a1.jpg",
+    "static/media/peace-lily.jpg": "/Paradise-Nursery---Plants/static/media/peace-lily.4c1f7d34.jpg",
+    "static/media/rose.jpg": "/Paradise-Nursery---Plants/static/media/rose.9f9180e4.jpg",
+    "static/media/rosemary.jpg": "/Paradise-Nursery---Plants/static/media/rosemary.b146ed31.jpg",
+    "static/media/spider-plant.jpg": "/Paradise-Nursery---Plants/static/media/spider-plant.0609463f.jpg"
   }
 }
