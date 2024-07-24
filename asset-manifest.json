@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/css/main.4de501cb.chunk.css",
+    "main.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/main.bc729ae4.chunk.js",
+    "main.js.map": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/main.bc729ae4.chunk.js.map",
+    "runtime~main.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/runtime~main.97e2dd00.js",
+    "runtime~main.js.map": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/runtime~main.97e2dd00.js.map",
+    "static/js/2.ad2a1308.chunk.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/2.ad2a1308.chunk.js",
+    "static/js/2.ad2a1308.chunk.js.map": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/js/2.ad2a1308.chunk.js.map",
+    "index.html": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/index.html",
+    "precache-manifest.a7ef61def043a277dff2e2be9f0f093c.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/precache-manifest.a7ef61def043a277dff2e2be9f0f093c.js",
+    "service-worker.js": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/service-worker.js",
+    "static/css/main.4de501cb.chunk.css.map": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/css/main.4de501cb.chunk.css.map",
+    "static/media/landing-bg.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/landing-bg.4d9eb41e.jpg",
+    "static/media/lavender.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/lavender.a053b3a1.jpg",
+    "static/media/peace-lily.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/peace-lily.4c1f7d34.jpg",
+    "static/media/rose.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/rose.9f9180e4.jpg",
+    "static/media/rosemary.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/rosemary.b146ed31.jpg",
+    "static/media/spider-plant.jpg": "%3Cyour-github-username%3E.github.io/%3Crepository-name%3E/static/media/spider-plant.0609463f.jpg"
+  }
+}
